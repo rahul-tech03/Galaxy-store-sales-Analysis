@@ -1,11 +1,11 @@
-# Vrinda Store Sales Report 2022
+# Galaxy Store Sales Report 2022
 
-This repository contains an Excel-based dashboard for analyzing the sales data of Vrinda Stores for the year 2022.
+This repository contains an Excel-based dashboard for analyzing the sales data of Galaxy Stores for the year 2022.
 The dashboard was built to answer specific questions and derive insights to help in understanding customer behavior and improving sales strategies for 2023.
 
 ## Objective
 
-Vrinda Stores aimed to create an annual sales report for 2022 to understand their customers better and enhance sales strategies for the following year.
+Galaxy Stores aimed to create an annual sales report for 2022 to understand their customers better and enhance sales strategies for the following year.
 Sample questions that guided the analysis included:
 
 1. Compare sales & orders using a single chart.
@@ -29,7 +29,7 @@ After processing, cleaning, and analyzing the data, several key insights were de
 
 ## Conclusion & Recommendations
 
-To improve Vrinda Store's sales:
+To improve Galaxy Store's sales:
 
 - Target women customers aged between 30-49 residing in Maharashtra, Karnataka & Uttar Pradesh.
 - Employ marketing strategies, ads, offers, or coupons available on Amazon, Flipkart, and Myntra, the channels contributing significantly to sales.
